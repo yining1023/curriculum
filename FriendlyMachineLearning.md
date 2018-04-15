@@ -1,41 +1,38 @@
-# About Our Template
-
-Eyebeam's educational focus is to promote artist-led, STEAM based education. This template is intended for our teaching artists to document their lessons with a larger goal for their curriculum to be referenced or used more easily in classrooms, libraries, after school programs or anywhere STEAM programming can be offered. 
-
-This template is based off of NYC Department of Education's CS4All Blueprint to teach creative computing. For more information on the core components they advise teachers and classes focus on, to give the students the competency to be better prepared to engage with more difficult STEM lessons, I highly encourage you to read about [their approach here](https://blueprint.cs4all.nyc/what-is-cs/)
-
-# TEMPLATE BELOW
-
-## Class Title
+# A friendly approach to Machine Learning
 
 ## Authors
-Your name, please include collaborators or funding institutions that have supported this work
+- [Yining Shi](https://1023.io/)
+- [Cristóbal Valenzuela](http://cvalenzuelab.com/)
 
-## Essential Question
-This is a question that leads to meaningful exploration of CS concepts and practices. Example Computer Science Essential Questions:
-- How can computers help us conduct scientific experiments?
-- How can programming represent your ideas and beliefs?
-- How might we use math to express ourselves creatively?
-- How might we use computing to impact our community?
-- How might we use computing to help people learn?
-- How will computers impact your future?
+## Essential Questions
+- How does artificial intelligence and machine learning work?
+- How can computers learn to perform a task without being explicitly program to do so?
+- What does it mean that a computer "learned" something?
+- How can we benefit from machine learning?
+- Why is training and bias so important when training an algorithm?
+- What will be the impact of having machine learning algorithms?
 
 ## Introduction
-Please provide a narrative of what the unit is about and why we should learn it that is simple enough that a student could read and understand.
+Artificial intelligence (A.I), the concept that computers can do and perform tasks that will normally require human intelligence, is becoming more and more predominant in our society. We use artificial intelligence systems almost everyday: when translating a text in the internet, when we tag our friends in Facebook or when we search for directions in a map. 
+
+A.I requires special systems and methodologies. One very popular technique to train computers to performs tasks is machine learning. Machine learning allows computer to perform functions and jobs without explicitly programming it to do so. 
+
+This workshop will allow students to understand the basic principles behind machine learning using live demos. It is also meant to serve as a high level introduction to topics related A.I. A friendly JavaScript web framework for machine learning will be used to show and demonstrate examples and concepts. 
 
 ### Target Audience / Prerequisite & Pre-Assessment
-What age range is this exercise designed for and what do students and teachers need to know or be able to do to be successful? This can be formal or informal. 
+This is intended for high school students between 10 and 18 years old. Some familiarity with basic concepts of programming can be helpful. 
 
 ### Pacing / Duration
-Number of total hours the unit will take in a typical workshop session(s). Please try to take into account transition time between instruction and hands on exercises if any prep is necessary.
+While this session can work as an introduction class to various machine learning concepts, ideally students can continue exploring more creative uses of machine learning.
 
 - Break down of the class schedule example: 
-  - :15 Overview, context, examples and vocabulary 
-  - :20 Instruction & hands on exercise 
+  - :20 Overview, context, examples and vocabulary 
+  - :30 Instruction & hands on exercise 
   - :15 Wrap-up discussion & sharing, reflection or journal and next steps
 
 ### Materials
-What hardware, software, or other materials will teachers need for lessons and end-of-unit performance task?
+- A computer
+- Internet connection
 
 ## Outcomes & Goals
 This section has three parts
