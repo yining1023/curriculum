@@ -22,7 +22,9 @@ A.I requires special systems and methodologies. One very popular technique to tr
 
 This workshop will allow students to understand the basic principles behind machine learning using live demos. It is also meant to serve as a high level introduction to topics related A.I. A friendly JavaScript web framework called [ml5](ml5js.github.io) for machine learning will be used to show and demonstrate examples and concepts.
 
-The ml5 JavaScript library is a tool for educators to integrate machine learning concepts into introductory coding classes. Together with examples, tutorials, and datasets, the library’s goal is to make machine learning accessible to a broad audience of artists, creative coders, and students (high school and university). The ml5 library provides access to machine learning algorithms and models in the browser with no other external dependencies. Our target audience is beginner programmers enrolled in an introductory programming course taught with JavaScript. We hope the ml5 library will be suitable for a one-week “machine learning” module, where the basics of training and inference can be demonstrated in the context of creative applications. In addition, we hope the library will work in other beginner and shorter-term contexts, like a weekend workshop for high school students with some programming experience.
+The ml5 JavaScript library is a tool for educators to integrate machine learning concepts into introductory coding classes. Together with examples, tutorials, and datasets, the library’s goal is to make machine learning accessible to a broad audience of artists, creative coders, and students (high school and university). The ml5 library provides access to machine learning algorithms and models in the browser with no other external dependencies.
+
+Our target audience is beginner programmers enrolled in an introductory programming course taught with JavaScript. We hope the ml5 library will be suitable for a one-week “machine learning” module, where the basics of training and inference can be demonstrated in the context of creative applications. In addition, we hope the library will work in other beginner and shorter-term contexts, like a weekend workshop for high school students with some programming experience.
 
 ### Target Audience / Prerequisite & Pre-Assessment
 This is intended for high school students between 10 and 18 years old, teachers who are interested in teaching introductions to machine learning in their classes, and any programming beginners who would like to learn more about machine learning. Some familiarity with basic concepts of programming can be helpful. 
@@ -57,8 +59,6 @@ After this workshop, students will -
 * **Transfer Learning**: Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. 
 * **KNN**: k-nearest neighbors algorithm. [Read more](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
       
-#### 3) Prerequisites 
-The exercise is very beginner-friendly, and doesn't require too much coding experience. But a basic understanding of HTML, CSS, Javascript is helpful.
 
 ## Exercise Descriptions
 Exercise: How to use KNN to build a Teachable Machine
@@ -69,6 +69,9 @@ What are we going to build?
 - [KNN Image Classifier in ML5](https://ml5js.github.io/docs/knn-image-example.html)
 
 ![teachable machine](https://ml5js.github.io/img/teachable.gif)
+
+#### Exercise Prerequisites 
+This exercise is very beginner-friendly, and doesn't require too much coding experience. But a basic understanding of HTML, CSS, Javascript is helpful.
 
 ## Additional resources
 - [Neural Networks and Machine Learning Playlist on Coding Train Youtube Channel](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&view=50&sort=dd)
