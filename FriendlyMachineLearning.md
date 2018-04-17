@@ -20,11 +20,10 @@ Artificial intelligence (A.I), the concept that computers can do and perform tas
 
 A.I requires special systems and methodologies. One very popular technique to train computers to performs tasks is machine learning. Machine learning allows computer to perform functions and jobs without explicitly programming it to do so. 
 
-This workshop will allow students to understand the basic principles behind machine learning using live demos. It is also meant to serve as a high level introduction to topics related A.I. A friendly JavaScript web framework called [ml5](ml5js.github.io) for machine learning will be used to show and demonstrate examples and concepts.
+This workshop will allow students to understand the basic principles behind machine learning using live demos. It is also meant to serve as a high level introduction to topics related A.I. A friendly JavaScript web framework for machine learning, called [ml5](ml5js.github.io), will be used to show and demonstrate examples and concepts.
 
 The ml5 JavaScript library is a tool for educators to integrate machine learning concepts into introductory coding classes. Together with examples, tutorials, and datasets, the library’s goal is to make machine learning accessible to a broad audience of artists, creative coders, and students (high school and university). The ml5 library provides access to machine learning algorithms and models in the browser with no other external dependencies.
 
-Our target audience is beginner programmers enrolled in an introductory programming course taught with JavaScript. We hope the ml5 library will be suitable for a one-week “machine learning” module, where the basics of training and inference can be demonstrated in the context of creative applications. In addition, we hope the library will work in other beginner and shorter-term contexts, like a weekend workshop for high school students with some programming experience.
 
 ### Target Audience / Prerequisite & Pre-Assessment
 This is intended for high school students between 10 and 18 years old, teachers who are interested in teaching introductions to machine learning in their classes, and any programming beginners who would like to learn more about machine learning. Some familiarity with basic concepts of programming can be helpful. 
