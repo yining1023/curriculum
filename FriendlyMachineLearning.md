@@ -32,9 +32,8 @@ This is intended for high school students between 10 and 18 years old, teachers 
 While this session can work as an introduction class to various machine learning concepts, ideally students can continue exploring more creative uses of machine learning.
 
   - :30 Overview, context, examples and vocabulary
-  - :30 Living coding session: How to use KNN to build a Teachable Machine
+  - :45 Living coding session: How to use KNN to build a Teachable Machine
   - :30 Try it yourself: Experiement with other examples in ml5.js
-  - :15 Quick and dirty show: Show what you built
   - :15 Wrap-up discussion & sharing, reflection or journal and next steps
 
 ### Materials
@@ -60,7 +59,7 @@ After this workshop, students will -
       
 
 ## Exercise Descriptions
-Exercise: How to use KNN to build a Teachable Machine
+Exercise: How to use KNN Image Classifier to build a Teachable Machine
 
 What are we going to build? 
 - [teachable machine](https://teachablemachine.withgoogle.com/) from google.
@@ -68,6 +67,13 @@ What are we going to build?
 - [KNN Image Classifier in ML5](https://ml5js.github.io/docs/knn-image-example.html)
 
 ![teachable machine](https://ml5js.github.io/img/teachable.gif)
+
+What is KNN(K Nearest Neighbors)? A classify algorithm, “Tell me who your neighbors are, and I’ll tell you who you are”.
+
+How does Teachable Machine work?
+- Transfer Learning
+- Input from Webcam → squeezeNet → KNN Classifier → Output
+- Read more [here](https://github.com/googlecreativelab/teachable-machine-boilerplate/blob/master/README.md)
 
 #### Exercise Prerequisites 
 This exercise is very beginner-friendly, and doesn't require too much coding experience. But a basic understanding of HTML, CSS, Javascript is helpful.
@@ -77,3 +83,4 @@ This exercise is very beginner-friendly, and doesn't require too much coding exp
 - [p5.js](https://p5js.org/)
 - [Chrome AI Experiments](https://experiments.withgoogle.com/ai)
 - [TensorFlow.js](https://js.tensorflow.org/)
+- [3Blue1Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
