@@ -71,7 +71,7 @@ The first part will cover a general overview of Artificial Intelligence and Mach
 
 Slides for this part can be found [here]()
 
-### 2) Image Classifier
+###  2) Image Classifier
 
 Based on the topics from part one, students will build a simple web KNN Image Classifier. This example demonstrates how to train and use a neural network. 
 
