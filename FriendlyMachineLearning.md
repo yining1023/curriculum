@@ -29,12 +29,11 @@ The ml5 JavaScript library is a tool for educators to integrate machine learning
 This is intended for high school students between 10 and 18 years old, teachers who are interested in teaching introductions to machine learning in their classes, and any programming beginners who would like to learn more about machine learning. Some familiarity with basic concepts of programming can be helpful. 
 
 ### Pacing / Duration
-While this session can work as an introduction class to various machine learning concepts, ideally students can continue exploring more creative uses of machine learning.
+This workshop can will take an approximate of 1 hour and 45 minutes. While this session can work as an introduction class to various machine learning concepts, ideally students can continue exploring more creative uses of machine learning.
 
   - :30 Overview, context, examples and vocabulary
-  - :30 Living coding session: How to use KNN to build a Teachable Machine
-  - :30 Try it yourself: Experiement with other examples in ml5.js
-  - :15 Quick and dirty show: Show what you built
+  - :30 Living coding session: How to create an Image Classifier
+  - :30 Try it yourself: Experiment with other examples in ml5.js
   - :15 Wrap-up discussion & sharing, reflection or journal and next steps
 
 ### Materials
@@ -60,20 +59,37 @@ After this workshop, students will -
       
 
 ## Exercise Descriptions
-Exercise: How to use KNN to build a Teachable Machine
 
-What are we going to build? 
-- [teachable machine](https://teachablemachine.withgoogle.com/) from google.
-- [teachable machine in ML5](https://ml5js.github.io/demos/teachableMachine)
-- [KNN Image Classifier in ML5](https://ml5js.github.io/docs/knn-image-example.html)
+The exercise is divided in two parts
+
+#### Prerequisites 
+This exercise is very beginner-friendly, and doesn't require too much coding experience. But a basic understanding of HTML, CSS, Javascript can be helpful.
+
+### 1) General Overview: Slides
+
+The first part will cover a general overview of Artificial Intelligence and Machine Learning. This section is meant to serve as an introduction to topics that will later be discussed in part two.
+
+Slides for this part can be found [here]()
+
+### 2) Image Classifier
+
+Based on the topics from part one, students will build a simple web KNN Image Classifier. This example demonstrates how to train and use a neural network. 
 
 ![teachable machine](https://ml5js.github.io/img/teachable.gif)
 
-#### Exercise Prerequisites 
-This exercise is very beginner-friendly, and doesn't require too much coding experience. But a basic understanding of HTML, CSS, Javascript is helpful.
+Students can used the online demo version [here](https://ml5js.github.io/docs/knn-image-example.html) or download the code from [here](https://github.com/ml5js/ml5-examples)
+
+Students start by choosing three things they want to classify. These can be objects, body positions, pictures, or anything they have around. After they pick, and using the online or downloaded example, they train a Neural Network on each of the things they selected. This will become the categories the algorithm will try to predict. For better results, more images should be added to each category.
+
+Live results of the image classification should start appearing.
+
+After the demo, students start adding and modifying parts of the example to add other outputs: sounds, images or colors.
 
 ## Additional resources
+
+- [ml5.js](https://ml5js.github.io/)
 - [Neural Networks and Machine Learning Playlist on Coding Train Youtube Channel](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&view=50&sort=dd)
 - [p5.js](https://p5js.org/)
 - [Chrome AI Experiments](https://experiments.withgoogle.com/ai)
 - [TensorFlow.js](https://js.tensorflow.org/)
+- [RunwayML](https://runwayml.com/)
