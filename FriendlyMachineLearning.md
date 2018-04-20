@@ -22,7 +22,7 @@ A.I requires special systems and methodologies. One very popular technique to tr
 
 This workshop will allow students to understand the basic principles behind machine learning using live demos. It is also meant to serve as a high level introduction to topics related A.I. A friendly JavaScript web framework for machine learning, called [ml5](ml5js.github.io), will be used to show and demonstrate examples and concepts.
 
-The ml5 JavaScript library is a tool for educators to integrate machine learning concepts into introductory coding classes. Together with examples, tutorials, and datasets, the library’s goal is to make machine learning accessible to a broad audience of artists, creative coders, and students (high school and university). The ml5 library provides access to machine learning algorithms and models in the browser with no other external dependencies.
+The ml5 JavaScript library is a tool for educators to integrate machine learning concepts into introductory coding classes. Together with examples, tutorials, and data sets, the library’s goal is to make machine learning accessible to a broad audience of artists, creative coders, and students (high school and university). The ml5 library provides access to machine learning algorithms and models in the browser with no other external dependencies.
 
 
 ### Target Audience / Prerequisite & Pre-Assessment
@@ -32,7 +32,7 @@ This is intended for high school students between 10 and 18 years old, teachers 
 This workshop can will take an approximate of 1 hour and 45 minutes. While this session can work as an introduction class to various machine learning concepts, ideally students can continue exploring more creative uses of machine learning.
 
   - :30 Overview, context, examples and vocabulary
-  - :30 Living coding session: How to create an Image Classifier
+  - :30 Living coding session: Building an image classifier
   - :30 Try it yourself: Experiment with other examples in ml5.js
   - :15 Wrap-up discussion & sharing, reflection or journal and next steps
 
@@ -93,3 +93,4 @@ After the demo, students start adding and modifying parts of the example to add 
 - [Chrome AI Experiments](https://experiments.withgoogle.com/ai)
 - [TensorFlow.js](https://js.tensorflow.org/)
 - [RunwayML](https://runwayml.com/)
+- [3Blue1Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
