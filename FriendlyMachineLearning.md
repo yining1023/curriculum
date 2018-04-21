@@ -69,7 +69,7 @@ This exercise is very beginner-friendly, and doesn't require too much coding exp
 
 The first part will cover a general overview of Artificial Intelligence and Machine Learning. This section is meant to serve as an introduction to topics that will later be discussed in part two.
 
-Slides for this part can be found [here]()
+Slides for this part can be found [here](https://docs.google.com/presentation/d/1gM8F5Ybo4z27q3kGWc2cw-fQ3x5Wf-Zj71InlC091z8/edit?usp=sharing)
 
 ###  2) Image Classifier
 
