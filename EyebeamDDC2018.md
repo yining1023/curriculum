@@ -20,7 +20,7 @@ Artificial intelligence (A.I), the concept that computers can do and perform tas
 
 A.I requires special systems and methodologies. One very popular technique to train computers to performs tasks is machine learning. Machine learning allows computer to perform functions and jobs without explicitly programming it to do so. 
 
-This workshop will allow students to understand the basic principles behind machine learning using live demos. It is also meant to serve as a high level introduction to topics related A.I. A friendly JavaScript web framework for machine learning, called [ml5](ml5js.github.io), will be used to show and demonstrate examples and concepts.
+This workshop will allow students to understand the basic principles behind machine learning using live demos. It is also meant to serve as a high level introduction to topics related A.I. A friendly JavaScript web framework for machine learning, called [ml5](ml5js.org), will be used to show and demonstrate examples and concepts.
 
 The ml5 JavaScript library is a tool for educators to integrate machine learning concepts into introductory coding classes. Together with examples, tutorials, and data sets, the library’s goal is to make machine learning accessible to a broad audience of artists, creative coders, and students (high school and university). The ml5 library provides access to machine learning algorithms and models in the browser with no other external dependencies.
 
@@ -29,7 +29,7 @@ The ml5 JavaScript library is a tool for educators to integrate machine learning
 This is intended for high school students between 10 and 18 years old, teachers who are interested in teaching introductions to machine learning in their classes, and any programming beginners who would like to learn more about machine learning. Some familiarity with basic concepts of programming can be helpful. 
 
 ### Pacing / Duration
-This workshop can will take an approximate of 1 hour and 45 minutes. While this session can work as an introduction class to various machine learning concepts, ideally students can continue exploring more creative uses of machine learning.
+This workshop can will take an approximate of 2 hours. While this session can work as an introduction class to various machine learning concepts, ideally students can continue exploring more creative uses of machine learning.
 
   - :30 Overview, context, examples and vocabulary
   - :30 Living coding session: Building an image classifier
