@@ -78,7 +78,7 @@ Slides for this part can be found [here](https://docs.google.com/presentation/d/
 
 ###  2) Image Classifier
 
-Based on the topics from part one, students will build a simple Image Classifier. See demo and code [here](https://ml5js.org/docs/image-classification-example)
+Based on the topics from part one, students will build a simple Image Classifier. See demo and code [here](https://ml5js.org/docs/video-classification-example)
 
 ## Additional resources
 
