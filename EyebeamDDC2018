@@ -39,7 +39,12 @@ This workshop can will take an approximate of 1 hour and 45 minutes. While this 
 ### Materials
 - A computer
 - Internet connection
-- A code editor
+- Chrome browser
+
+### Pre-Class homework
+Do either one of the followings:
+- Create an free user account at [p5 web editor](http://alpha.editor.p5js.org)
+- Or download a code editor, download visual studio code editor [here](https://code.visualstudio.com/download)
 
 ## Outcomes & Goals
 
@@ -69,21 +74,11 @@ This exercise is very beginner-friendly, and doesn't require too much coding exp
 
 The first part will cover a general overview of Artificial Intelligence and Machine Learning. This section is meant to serve as an introduction to topics that will later be discussed in part two.
 
-Slides for this part can be found [here](https://docs.google.com/presentation/d/1gM8F5Ybo4z27q3kGWc2cw-fQ3x5Wf-Zj71InlC091z8/edit?usp=sharing)
+Slides for this part can be found [here](https://docs.google.com/presentation/d/1UKYXlaY-yiyLt-Xm99ljykaf4jZCjvF7EspvW97bRB0/edit?usp=sharing)
 
 ###  2) Image Classifier
 
-Based on the topics from part one, students will build a simple web KNN Image Classifier. This example demonstrates how to train and use a neural network. 
-
-![teachable machine](https://ml5js.github.io/img/teachable.gif)
-
-Students can used the online demo version [here](https://ml5js.github.io/docs/knn-image-example.html) or download the code from [here](https://github.com/ml5js/ml5-examples)
-
-Students start by choosing three things they want to classify. These can be objects, body positions, pictures, or anything they have around. After they pick, and using the online or downloaded example, they train a Neural Network on each of the things they selected. This will become the categories the algorithm will try to predict. For better results, more images should be added to each category.
-
-Live results of the image classification should start appearing.
-
-After the demo, students start adding and modifying parts of the example to add other outputs: sounds, images or colors.
+Based on the topics from part one, students will build a simple Image Classifier. See demo and code [here](https://ml5js.org/docs/image-classification-example)
 
 ## Additional resources
 
